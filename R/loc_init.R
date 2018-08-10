@@ -7,5 +7,5 @@
 #' @examples
 #' init_loc()
 loc_init<-function(){
-  setwd("G:/Programming-Coding/R/")
+  setwd("E:/Coding Files/R/")
 }
